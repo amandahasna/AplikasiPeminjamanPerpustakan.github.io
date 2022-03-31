@@ -92,8 +92,6 @@ class Anggota {
     }
 }
 
-
-
 //Buku
 class Buku{
     // Atribut
@@ -165,7 +163,6 @@ public class Main {
                 default:
                     System.exit(0);
             }
-
             System.out.print("Kembali ke Menu Awal? (Y/T) : ");
             cekStatus = inputUser.next();
 
